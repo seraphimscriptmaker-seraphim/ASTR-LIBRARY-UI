@@ -142,8 +142,7 @@ Toggle.Position = UDim2.new(0, 5, 0, -2)
 Toggle.Rotation = 90
 Toggle.Size = UDim2.new(0, 20, 0, 20)
 Toggle.ZIndex = 2
-Toggle.Image = "https://create.roblox.com/store/asset/134873389606088"
-
+Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=134873389606088"
 local corner = Instance.new("UICorner")
 corner.CornerRadius = UDim.new(1, 0) -- full circle
 corner.Parent = Toggle
